@@ -4,28 +4,28 @@
     "name": "Octavio",
     "favoriteHobby": "soccer",
     "age": 20,
-    "phone": 3337845673,
+    "phone": "3337845673",
     "address": "318 S. Border Avenue Terre Haute, IN 47802"
   },
   {
     "name": "Dafne",
     "favoriteHobby": "Dancing",
     "age": 23,
-    "phone": 6748593829,
+    "phone": "6748593829",
     "address": "239 Laurel St. Johnson City, TN 37601"
   },
   {
     "name": "Oscar",
     "favoriteHobby": "gym",
     "age": 22,
-    "phone": 2066789043,
+    "phone": "2066789043",
     "address": "4 Iroquois St. Holbrook, NY 11741"
   },
   {
     "name": "Diego",
     "favoriteHobby": "swimming",
     "age": 22,
-    "phone": 3356473890,
+    "phone": "3356473890",
     "address": "65 Stillwater Avenue Merrick, NY 11566"
   }
 ]
