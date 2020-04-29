@@ -28,5 +28,31 @@
     "phone": "3356473890",
     "address": "65 Stillwater Avenue Merrick, NY 11566"
   }
-]
+],
+ "kittens": [
+  {
+   "name": "Michi",
+   "breed": "Bengala"
+  },
+  {
+   "name": "Mrs. Whiskerson",
+   "breed": "Sphynx"
+  },
+  {
+   "name": "Mr. Buttons",
+   "breed": "Siamese"
+  },
+  {
+   "name": "Smokey",
+   "breed": "Siamese"
+  },
+  {
+   "name": "Sprinkles",
+   "breed": "British"
+  },
+  {
+   "name": "Ramon",
+   "breed": "Persa"
+  }
+ ]
 }
